@@ -1,3 +1,6 @@
 [submodule "external/kicad-ESP8266"]
 	path = external/kicad-ESP8266
 	url = https://github.com/jdunmire/kicad-ESP8266
+[submodule "external/KiCad-SSD1306_OLED-0.91-128x32"]
+	path = external/KiCad-SSD1306_OLED-0.91-128x32
+	url = https://github.com/MichMich/KiCad-SSD1306_OLED-0.91-128x32.git
