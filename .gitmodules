@@ -4,3 +4,6 @@
 [submodule "external/KiCad-SSD1306_OLED-0.91-128x32"]
 	path = external/KiCad-SSD1306_OLED-0.91-128x32
 	url = https://github.com/MichMich/KiCad-SSD1306_OLED-0.91-128x32.git
+[submodule "external/badgelife-parts"]
+	path = external/badgelife-parts
+	url = https://github.com/devec0/badgelife-parts.git
