@@ -7,3 +7,6 @@
 [submodule "external/badgelife-parts"]
 	path = external/badgelife-parts
 	url = https://github.com/devec0/badgelife-parts.git
+[submodule "external/kicad-libraries"]
+	path = external/kicad-libraries
+	url = https://github.com/espressif/kicad-libraries.git
